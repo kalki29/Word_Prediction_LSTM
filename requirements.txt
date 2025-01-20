@@ -1,0 +1,10 @@
+tensorflow==2.15.0
+pandas 
+numpy 
+scikit-learn
+tensorboard
+matplotlib
+streamlit
+scikeras
+
+collab link:https://colab.research.google.com/drive/1ACnFyMbTCzqdrQskq1qm5Dc50_EJHBGe#scrollTo=IcKLVQHC2AvC
